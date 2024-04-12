@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Admin Waves Of Food</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+
+    <string name="facebook_app_id">221248120919057</string>
+    <string name="fb_login_protocol_scheme">96a9a8db2468794bc65a9f53820a9de8</string>
+    <string name="facebook_client_token">OEU34PkZ8rK05vNocpdixaisogc=</string>
+
+
+</resources>
